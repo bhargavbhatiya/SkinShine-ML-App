@@ -16,7 +16,7 @@ To deploy machine learning in medical science, then this machine learning startu
 </br>
 </br>
 <p float="left">
-<img alt="Flutter" src="assets/read1.png" width = "250" height = "500" /><img alt="Flutter" src="assets/read2.png" width = "250" height = "500" /><img alt="Flutter" src="assets/read3.png" width = "250" height = "500" /><img alt="Flutter" src="assets/read4.png" width = "250" height = "500" /></p>
+<img alt="Flutter" src="assets/read2.png" width = "250" height = "500" /><img alt="Flutter" src="assets/read3.png" width = "250" height = "500" /><img alt="Flutter" src="assets/read4.png" width = "250" height = "500" /></p>
 
 ## Features
 
